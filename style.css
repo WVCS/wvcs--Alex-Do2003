@@ -1,3 +1,27 @@
+h1 {
+  font-size: 75px;
+  text-align: center;
+}
+h2 {
+  font-size: 25px;
+  text-align: center;
+}
+h3{
+  font-size: 25px;
+  text-align: center;
+}
+img {
+  width: 300px;
+}
 body {
+  background-color: #B9CBB8;
+}
 
+table {
+  color: darkgreen;
+ font-size: 20px;
+  width: 100%;
+}
+p {
+  text-align: center;
 }
